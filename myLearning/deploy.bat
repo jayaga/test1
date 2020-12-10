@@ -1,1 +1,1 @@
-copy target\*.* D:\Deployment
+copy myLearning\target\*.* D:\Deployment
